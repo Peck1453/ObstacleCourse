@@ -1,3 +1,3 @@
 # ObstacleCourse
 
-1st Practise project on Unity Game Engine 
+1st Practice project on Unity Game Engine 
